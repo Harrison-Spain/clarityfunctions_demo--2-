@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\harrison.spain\Downloads\clarityfunctions_demo (2)\build\CMakeFiles\b8038a30e30c69f5b6cceb463eadc53e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4856C143-E4BA-3BEE-982F-65E0640BEB06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
