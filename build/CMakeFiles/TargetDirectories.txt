@@ -1,4 +1,0 @@
-C:/Users/harrison.spain/Downloads/clarityfunctions_demo (2)/build/CMakeFiles/clarityfunctions.dir
-C:/Users/harrison.spain/Downloads/clarityfunctions_demo (2)/build/CMakeFiles/clarityfunctions_demo.dir
-C:/Users/harrison.spain/Downloads/clarityfunctions_demo (2)/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/harrison.spain/Downloads/clarityfunctions_demo (2)/build/CMakeFiles/ZERO_CHECK.dir
